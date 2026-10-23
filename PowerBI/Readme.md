@@ -44,6 +44,7 @@ To use the dashboard:
 2. Open the file in Power BI Desktop.
 3. Connect to your data source if required, or use the embedded sample data to explore the features.
 4. Publish to Power BI Service for collaborative analysis.
+5. For public use only
 
 
 
